@@ -7,5 +7,6 @@ prompt (questions).then (({text, textColor, shape, shapeColor}) => {
         new Circle : 
         shape == 'Triangle' ? 
         new Triangle() : 
+        shape == Square :
         new Square() 
-})
+});
