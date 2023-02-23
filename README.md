@@ -9,7 +9,8 @@ SVG Logo Generator can be used with Inquirer and Jest.
 <br>
 
 ## Usage
-Users can 
+Video link (runs with errors) -
+[Link to demo](https://drive.google.com/file/d/1H1hprmrpYFga3LPZWyYlw2uice7QM0WC/view)
 <br>
 
 ## Contributors
